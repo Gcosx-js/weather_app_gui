@@ -1,0 +1,22 @@
+Windows scale: 1438 x 754
+
+Hot :  =25 or 25+
+
+Warm : 16-24
+
+Cold : 0-15
+
+Frosty : negative
+
+Degree symbol : °
+
+API (today) : https://api.weatherapi.com/v1/current.json?key=ef5940247d54433992b133742230705&q=sanqacal&aqi=yes
+
+API (tomorrow or history) : https://api.weatherapi.com/v1/history.json?key=ef5940247d54433992b133742230705&q=sanqacal&dt=2023-8-14
+
+Hide QLabel for tomorrow text{
+				X : 800 
+				Y : 100
+				W : 431
+				H : 61
+						}

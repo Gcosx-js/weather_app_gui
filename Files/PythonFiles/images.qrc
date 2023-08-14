@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>weather_pngs/cold.png</file>
+    <file>weather_pngs/frosty.png</file>
+    <file>weather_pngs/hot.png</file>
+    <file>weather_pngs/warm.png</file>
+    <file>template.png</file>
+  </qresource>
+</RCC>
